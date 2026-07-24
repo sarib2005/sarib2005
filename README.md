@@ -67,17 +67,4 @@ Frontend fundamentals with HTML, CSS, and Java.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarib2005&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarib2005&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarib2005&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to interesting frontend/full-stack opportunities — feel free to connect!</i></p>
