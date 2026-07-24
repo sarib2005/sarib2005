@@ -35,16 +35,35 @@
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Featured Projects
 
-A few projects I've built or contributed to:
+| Project | Stack | Link |
+|---|---|---|
+| **SYB Ecosystem** — digital innovation platform for a UK IT services company | React · Vite · Tailwind · Laravel | [sybecosystem.com](https://sybecosystem.com) |
+| **SYB Hedayat** — Quran-based e-learning platform, teacher/student portals | React · Vite · Tailwind · Laravel | [sybhedayat.com](https://sybhedayat.com) |
+| **DiscountOye.pk** — Shopify storefront, variant pickers & inventory logic | Shopify Liquid | [discountoye.pk](https://discountoye.pk) |
+| **Solicitors Chambers** — legal services site, admin panel & KYC flow | React · Next.js · Tailwind · Laravel | [solicitorschambers.com](https://solicitorschambers.com) |
+| **ApplyVisas** — visa consultancy, conversion-focused inquiry flow | React · Next.js · Tailwind | [applyvisas.co.uk](https://applyvisas.co.uk) |
+| **Study2Uni** — UK university admissions consultancy | React · Vite · Tailwind · Laravel | [study2uni.com](https://study2uni.com) |
+| **Seth SYB** — perfume e-commerce storefront | React · Framer Motion · Tailwind | [seth-syb-frontend.vercel.app](https://seth-syb-frontend.vercel.app) |
+| **Klyro** — e-commerce storefront, custom carousel & animation | React · Next.js · Tailwind · Framer Motion | [klyro-chi.vercel.app](https://klyro-chi.vercel.app) |
+| **RanaBaig Law Firm** — international law firm website | WordPress · Elementor | [ranabaiglawfirm.com](https://ranabaiglawfirm.com) |
+| **Charity4Humanity** — UK/Pakistan nonprofit site | WordPress · Elementor | [charity4humanity.org](https://charity4humanity.org) |
 
-- **E-commerce** — Shopify Liquid theme development and storefront customization
-- **Education platforms** — React-based UI development for admissions and learning platforms
-- **Legal/professional services** — admin panels and client-facing verification flows
-- **Personal projects** — a Monkeytype-style typing speed test app (React + TypeScript) with live WPM/accuracy stats
+👉 More detail and case studies on my [portfolio](https://sarib-portfolio.vercel.app)
 
-👉 See detailed case studies on my [portfolio](https://sarib-portfolio.vercel.app)
+---
+
+### 💼 Experience
+
+**Frontend Developer** — SYB Business Ecosystem *(Mar 2025 – Present)*
+Building and maintaining production web platforms across concurrent client portals, an educational platform, and e-commerce storefronts using React, Next.js, WordPress, and Shopify.
+
+**Game Developer** — ArtSphere *(Sept 2024 – Feb 2025)*
+2D games in C# and Unity — mechanics, scripting, and interactive design.
+
+**Web Development Intern** — Rise Rox Tech *(Jun 2024 – Aug 2024)*
+Frontend fundamentals with HTML, CSS, and Java.
 
 ---
 
