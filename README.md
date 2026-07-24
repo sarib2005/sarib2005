@@ -47,7 +47,6 @@
 | **SYB Ecosystem** — digital innovation platform for a UK IT services company | React · Vite · Tailwind · Laravel | [sybecosystem.com](https://sybecosystem.com) |
 | **DiscountOye.pk** — Shopify storefront, variant pickers & inventory logic | Shopify Liquid | [discountoye.pk](https://discountoye.pk) |
 | **ApplyVisas** — visa consultancy, conversion-focused inquiry flow | React · Vite · Tailwind | [applyvisas.co.uk](https://applyvisas.co.uk) |
-| **RanaBaig Law Firm** — international law firm website | WordPress · Elementor | [ranabaiglawfirm.com](https://ranabaiglawfirm.com) |
 | **Charity4Humanity** — UK/Pakistan nonprofit site | WordPress · Elementor | [charity4humanity.org](https://charity4humanity.org) |
 
 👉 More details on my [portfolio](https://sarib-portfolio.vercel.app)
