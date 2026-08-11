@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarib Ali 👋</h1>
 
-<h3 align="center">Frontend Developer crafting fast, clean, animated web experiences</h3>
+<h3 align="center">Frontend Developer crafting fast, clean, animated web & mobile experiences</h3>
 
 <p align="center">
   <a href="https://sarib-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -11,11 +11,12 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Frontend Developer at **SYB Business Ecosystem**, based in Lahore, Pakistan
-- 🛠️ I build interfaces across **e-commerce, education, and legal/professional services** platforms
-- ⚡ I care about performance, smooth motion, and clean, minimal UI
-- 🔁 I regularly work across stack variants — converting between React/Next.js, plain JSX, and Shopify Liquid
-- 🌱 Currently sharpening skills in advanced animation systems and scroll-based interactions
+* 💼 Frontend Developer at **SYB Business Ecosystem**, based in Lahore, Pakistan
+* 🛠️ I build interfaces and applications across **e-commerce, education, anime, and legal/professional services**
+* 📱 I also build mobile applications using **React Native and Expo**
+* ⚡ I care about performance, smooth motion, responsive design, and clean UI
+* 🔁 I regularly work across stack variants — React/Next.js, React Native, plain JSX, and Shopify Liquid
+* 🌱 Currently sharpening skills in advanced animation systems and scroll-based interactions
 
 ---
 
@@ -28,6 +29,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
@@ -42,12 +45,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Stack | Link |
-|---|---|---|
-| **SYB Ecosystem** — digital innovation platform for a UK IT services company | React · Vite · Tailwind · Laravel | [sybecosystem.com](https://sybecosystem.com) |
-| **DiscountOye.pk** — Shopify storefront, variant pickers & inventory logic | Shopify Liquid | [discountoye.pk](https://discountoye.pk) |
-| **ApplyVisas** — visa consultancy, conversion-focused inquiry flow | React · Vite · Tailwind | [applyvisas.co.uk](https://applyvisas.co.uk) |
-| **Charity4Humanity** — UK/Pakistan nonprofit site | WordPress · Elementor | [charity4humanity.org](https://charity4humanity.org) |
+| Project                                                                                    | Stack                                                     | Link                                                 |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------- |
+| **Kiroku** — anime tracking mobile app with discovery, episode tracking & personal library | React Native · Expo · TypeScript · Firebase · AniList API | [kiroku](https://kiroku-website.vercel.app)          |
+| **SYB Ecosystem** — digital innovation platform for a UK IT services company               | React · Vite · Tailwind · Laravel                         | [sybecosystem.com](https://sybecosystem.com)         |
+| **DiscountOye.pk** — Shopify storefront with custom variant pickers & inventory logic      | Shopify · Liquid                                          | [discountoye.pk](https://discountoye.pk)             |
+| **ApplyVisas** — visa consultancy website with conversion-focused inquiry flow             | React · Vite · Tailwind                                   | [applyvisas.co.uk](https://applyvisas.co.uk)         |
+| **Charity4Humanity** — UK/Pakistan nonprofit website                                       | WordPress · Elementor                                     | [charity4humanity.org](https://charity4humanity.org) |
 
 👉 More details on my [portfolio](https://sarib-portfolio.vercel.app)
 
@@ -66,4 +70,4 @@ Frontend fundamentals with HTML, CSS, and Java.
 
 ---
 
-<p align="center"><i>Open to interesting frontend opportunities — feel free to connect!</i></p>
+<p align="center"><i>Open to interesting frontend and mobile development opportunities — feel free to connect!</i></p>
