@@ -47,7 +47,7 @@
 
 | Project                                                                                    | Stack                                                     | Link                                                 |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| **Kiroku** — anime tracking mobile app with discovery, episode tracking & personal library | React Native · Expo · TypeScript · Firebase · AniList API | [kiroku](https://kiroku-website.vercel.app)          |
+| **Kiroku** — anime tracking mobile app with discovery, episode tracking & personal library | React Native · Expo · TypeScript · Firebase · AniList API | [kiroku](https://kiroku-app.vercel.app)          |
 | **SYB Ecosystem** — digital innovation platform for a UK IT services company               | React · Vite · Tailwind · Laravel                         | [sybecosystem.com](https://sybecosystem.com)         |
 | **DiscountOye.pk** — Shopify storefront with custom variant pickers & inventory logic      | Shopify · Liquid                                          | [discountoye.pk](https://discountoye.pk)             |
 | **ApplyVisas** — visa consultancy website with conversion-focused inquiry flow             | React · Vite · Tailwind                                   | [applyvisas.co.uk](https://applyvisas.co.uk)         |
